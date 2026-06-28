@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\bin\Debug\net6.0\SchooProject.Data.deps.json
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\bin\Debug\net6.0\SchooProject.Data.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\bin\Debug\net6.0\ref\SchooProject.Data.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\bin\Debug\net6.0\SchooProject.Data.pdb
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\obj\Debug\net6.0\SchooProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\obj\Debug\net6.0\SchooProject.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\obj\Debug\net6.0\SchooProject.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\obj\Debug\net6.0\SchooProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\obj\Debug\net6.0\SchooProject.Data.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\obj\Debug\net6.0\ref\SchooProject.Data.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchooProject.Data\obj\Debug\net6.0\SchooProject.Data.pdb

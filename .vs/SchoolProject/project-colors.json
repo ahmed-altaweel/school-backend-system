@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e688faa4-6992-4922-bea7-a0221e8ad209": {
+      "ProjectGuid": "e688faa4-6992-4922-bea7-a0221e8ad209",
+      "DisplayName": "SchoolProject.Api",
+      "ColorIndex": 0
+    },
+    "15e0585a-4278-4c1d-9cde-0ea11b4e616a": {
+      "ProjectGuid": "15e0585a-4278-4c1d-9cde-0ea11b4e616a",
+      "DisplayName": "SchoolProject.Data",
+      "ColorIndex": 1
+    },
+    "ec03b3b2-470d-4999-b4e5-3c6300cc562a": {
+      "ProjectGuid": "ec03b3b2-470d-4999-b4e5-3c6300cc562a",
+      "DisplayName": "SchoolProject.Infrastructure",
+      "ColorIndex": 2
+    },
+    "1756fab9-43c4-40b2-8c5c-0d8268750378": {
+      "ProjectGuid": "1756fab9-43c4-40b2-8c5c-0d8268750378",
+      "DisplayName": "SchoolProject.Service",
+      "ColorIndex": 3
+    },
+    "a0a05bfd-3ef5-4a5e-9574-4a485024574c": {
+      "ProjectGuid": "a0a05bfd-3ef5-4a5e-9574-4a485024574c",
+      "DisplayName": "SchoolProject.Core",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

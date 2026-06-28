@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\bin\Debug\net6.0\SchoolProject.Service.deps.json
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\bin\Debug\net6.0\SchoolProject.Service.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\bin\Debug\net6.0\ref\SchoolProject.Service.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\bin\Debug\net6.0\SchoolProject.Service.pdb
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\bin\Debug\net6.0\SchoolProject.Infrastructure.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\bin\Debug\net6.0\SchoolProject.Infrastructure.pdb
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\SchoolProject.Service.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\SchoolProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\SchoolProject.Service.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\SchoolProject.Service.AssemblyInfo.cs
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\SchoolProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\SchoolProject.Service.csproj.CopyComplete
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\SchoolProject.Service.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\ref\SchoolProject.Service.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\obj\Debug\net6.0\SchoolProject.Service.pdb
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\bin\Debug\net6.0\SchoolProject.Data.dll
+C:\Users\PC\Desktop\c#\SchoolProject\SchoolProject.Service\bin\Debug\net6.0\SchoolProject.Data.pdb
