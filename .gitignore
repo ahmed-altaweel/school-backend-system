@@ -1,23 +1,13 @@
-# „·›«  «·»‰«¡
+
 bin/
 obj/
-
-# ≈⁄œ«œ«  Visual Studio
 .vs/
 *.user
 *.suo
-
-# „·›«  «·‰‘—
 publish/
 wwwroot/lib/
-
-# „·›«  «·‰Ÿ«„
 .DS_Store
 Thumbs.db
-
-# „·›«  «·‹ logs
 *.log
-
-# „·›«  «·√”—«— („Â„ Ãœ«)
 appsettings.Development.json
 secrets.json
